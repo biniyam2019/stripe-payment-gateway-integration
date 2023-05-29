@@ -1,8 +1,8 @@
-# checkout-one-time-payments
+#stripe-payment-gateway-integration
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/biniyam2019/checkout-one-time-payments.git
+   git clone https://github.com/biniyam2019/stripe-payment-gateway-integration
 
     Navigate to the server folder:
 
